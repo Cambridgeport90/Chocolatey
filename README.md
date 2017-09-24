@@ -1,1 +1,2 @@
-Here's where you can find the source of my Chocolatey packages. Add chocolatey.stormlighttech.org as a source       
+This repository contains all of my chocolatey packages; the final .nupkg files are stored on the public Proget feed at:
+https://feeds.stormlighttech.org
